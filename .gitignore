@@ -41,6 +41,7 @@ results*.csv
 coco/
 coco128/
 VOC/
+VOCdevkit/
 
 # MATLAB GitIgnore -----------------------------------------------------------------------------------------------------
 *.m~
@@ -198,6 +199,7 @@ Icon?
 Network Trash Folder
 Temporary Items
 .apdisk
+
 
 
 # https://github.com/github/gitignore/blob/master/Global/JetBrains.gitignore

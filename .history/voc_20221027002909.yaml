@@ -1,0 +1,2 @@
+train： VOCdevkit/VOC2007/train.txt
+val: VOCdevkit/VOC2007/val.txt
